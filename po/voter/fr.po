@@ -203,7 +203,7 @@ msgstr "Authentification"
 
 #: src/web/server/common/pages_common.ml:311
 msgid "Authenticate with %s"
-msgstr "Authentifier avec %s"
+msgstr "S'authentifier avec %s"
 
 #: src/web/server/common/pages_common.ml:413
 msgid "Authentication failed"
